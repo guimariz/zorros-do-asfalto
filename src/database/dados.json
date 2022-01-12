@@ -1,0 +1,79 @@
+{
+  "result": [
+  {
+    "nome": "Marizada",
+    "pista": "Interlagos",
+    "tempo": "01:09:655",
+    "carro": "Mercedes",
+    "tipos-corrida": "Seco",
+    "tipo-controle": "Volante",
+    "opcoes-corrida": {
+      "marcha": "Manual",
+      "controle-tracao": false,
+      "freio-abs": true,
+      "tracado": "Apenas nas Curvas"
+    },
+    "print": "url"
+  },
+  {
+    "nome": "Marizada",
+    "pista": "Interlagos",
+    "tempo": "01:09:655",
+    "carro": "Mercedes",
+    "tipos-corrida": "Seco",
+    "tipo-controle": "Volante",
+    "opcoes-corrida": {
+      "marcha": "Manual",
+      "controle-tracao": false,
+      "freio-abs": true,
+      "tracado": "Apenas nas Curvas"
+    },
+    "print": "url"
+  },
+  {
+    "nome": "Marizada",
+    "pista": "Interlagos",
+    "tempo": "01:09:655",
+    "carro": "Mercedes",
+    "tipos-corrida": "Seco",
+    "tipo-controle": "Volante",
+    "opcoes-corrida": {
+      "marcha": "Manual",
+      "controle-tracao": false,
+      "freio-abs": true,
+      "tracado": "Apenas nas Curvas"
+    },
+    "print": "url"
+  },
+  {
+    "nome": "Marizada",
+    "pista": "Interlagos",
+    "tempo": "01:09:655",
+    "carro": "Mercedes",
+    "tipos-corrida": "Seco",
+    "tipo-controle": "Volante",
+    "opcoes-corrida": {
+      "marcha": "Manual",
+      "controle-tracao": false,
+      "freio-abs": true,
+      "tracado": "Apenas nas Curvas"
+    },
+    "print": "url"
+  },
+  {
+    "nome": "Marizada",
+    "pista": "Interlagos",
+    "tempo": "01:09:655",
+    "carro": "Mercedes",
+    "tipos-corrida": "Seco",
+    "tipo-controle": "Volante",
+    "opcoes-corrida": {
+      "marcha": "Manual",
+      "controle-tracao": false,
+      "freio-abs": true,
+      "tracado": "Apenas nas Curvas"
+    },
+    "print": "url"
+  }
+]}
+

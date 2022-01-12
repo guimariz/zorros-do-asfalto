@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import { Link } from 'react-router-dom'
-import { SidebarData } from './SidebarData'
+import { SidebarData } from '../database/SidebarData'
 import { IconContext } from 'react-icons'
 import '../App.css'
 

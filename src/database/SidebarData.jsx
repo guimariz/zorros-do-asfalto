@@ -7,7 +7,7 @@ import * as BsIcons from 'react-icons/bs'
 export const SidebarData = [
   {
     title: 'Home',
-    path: '/home',
+    path: '/',
     icon: <AiIcons.AiFillHome />
   },
   {

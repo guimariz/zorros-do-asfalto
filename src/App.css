@@ -1,3 +1,10 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -8,8 +15,9 @@ body {
 }
 
 .Sidebar {
-  height: calc(100vh - 52px);
+  height: 100vh;
   width: 250px;
+  float: left;
 }
 
 .SidebarList {
@@ -38,4 +46,29 @@ body {
 .SidebarList .row:hover {
   cursor: pointer;
   background-color: #383b46;
+}
+
+.wTime {
+  width: 50px;
+  min-width: 30px;
+}
+
+.min50 {
+  min-width: 50px;
+}
+
+.minSize {
+  font-size: 10px;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type='number'] {
+  -moz-appearance: textfield;
 }
